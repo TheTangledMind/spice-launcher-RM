@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "label": "My Proxmox host",
+  "peer_id": "nReplaceWithHostPeerID",
+  "peer_ip": "100.64.0.1",
+  "tls_name": "pve.example.invalid",
+  "pool": "spice-rm",
+  "token_id": "spice-rm@pve!desktop",
+  "ca_pem": "-----BEGIN CERTIFICATE-----\nREPLACE_WITH_TRUSTED_PROXMOX_CA_BASE64\n-----END CERTIFICATE-----\n"
+}

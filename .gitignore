@@ -1,0 +1,24 @@
+AGENTS.md
+COMMIT-NOTE.md
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+enrolment*/
+*.vv
+token*
+.env*
+*.key
+*.p12
+*.pfx
+*.pem
+profile.json
+settings.json
+*.log
+# Preserve the user's initial nested repository locally; publish its history
+# through this repository rather than accidentally adding a Git submodule.
+/Spice-Launcher-RM/
